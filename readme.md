@@ -3,8 +3,7 @@ a repo for art collaboration
 
 ##Todo:
 - Create Blender render script for each camera spot
-- Research dust creation in Blender
--  
+- Research / experiment with dust creation in Blender
 
 ##Models needed:
 - Dartboard 
@@ -12,7 +11,6 @@ a repo for art collaboration
 - Vintage cash register
 - Combination lock
 - Books
-- Room (shelves, tables, door)
-
+- Room (shelves, tables, door, "everything means something" sign)
 - Safe?
 
